@@ -6,8 +6,8 @@ An application for buying clothes for man and woman.
 -Language: Dart.
 
 # What I learn
--Know how to import image
+-Know how to import and use image
 
--Customize App Bar.
+-Customize App Bar(icon button, background color, action(button left and right)).
 
--Use ListTile 
+-Use ListTile, InkWell(onTap, title, leading button)
