@@ -1,5 +1,5 @@
 # shopping-app
-An application for buying clothes for man and woman.
+An application for buying clothes, shoes for man and woman.
 
 -Framework: Flutter.
 
